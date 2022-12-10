@@ -5,3 +5,5 @@
 This is the home for our lab's general-purpose paradigms, utilities, and analysis tools. The purpose of this page is to provide tasks and scripts that can be used as starting points for specific studies.
 
 The project-specific code for the lab's various studies can be found in the [LBRF Project Repository](https://github.com/LBRF-Projects).
+
+The open-access analysis pipleines for our studies can be found in the [LBRF Pipeline Repository](https://github.com/LBRF-Pipelines).
